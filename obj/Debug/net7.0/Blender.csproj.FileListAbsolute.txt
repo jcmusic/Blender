@@ -1,0 +1,14 @@
+C:\Source\POCs\Blender\bin\Debug\net7.0\Blender.exe
+C:\Source\POCs\Blender\bin\Debug\net7.0\Blender.deps.json
+C:\Source\POCs\Blender\bin\Debug\net7.0\Blender.runtimeconfig.json
+C:\Source\POCs\Blender\bin\Debug\net7.0\Blender.dll
+C:\Source\POCs\Blender\bin\Debug\net7.0\Blender.pdb
+C:\Source\POCs\Blender\obj\Debug\net7.0\Blender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\POCs\Blender\obj\Debug\net7.0\Blender.AssemblyInfoInputs.cache
+C:\Source\POCs\Blender\obj\Debug\net7.0\Blender.AssemblyInfo.cs
+C:\Source\POCs\Blender\obj\Debug\net7.0\Blender.csproj.CoreCompileInputs.cache
+C:\Source\POCs\Blender\obj\Debug\net7.0\Blender.dll
+C:\Source\POCs\Blender\obj\Debug\net7.0\refint\Blender.dll
+C:\Source\POCs\Blender\obj\Debug\net7.0\Blender.pdb
+C:\Source\POCs\Blender\obj\Debug\net7.0\Blender.genruntimeconfig.cache
+C:\Source\POCs\Blender\obj\Debug\net7.0\ref\Blender.dll
