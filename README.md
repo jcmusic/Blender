@@ -1,5 +1,5 @@
 ## Blender  
-### A Proof-of-Concept project for the State Design Pattern
+A Proof-of-Concept project for the State Design Pattern
 
 ### How would you code a Blender?  
 
