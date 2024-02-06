@@ -7,7 +7,7 @@ A Proof-of-Concept project for the State Design Pattern
 This was an whiteboard interview question I heard many years ago in order to see how a developer would approach a problem.  When I ran accross the <strong> State design pattern </strong>, I immediately thought of that question.  So as an OOP design exercise, I decided to code it.  We learn thru doing.</p>
 
 <p align="left">
-The state pattern is one thing, but one of the greater lessons here is dependency inversion, where the behavior of the blender comes externally. This way can be determined/changed at runtime.</p>
+The state pattern is one thing, but one of the greater OOP lessons here are composition and dependency inversion, where the blender's behavior are provided externally. This way can be changed at runtime, cleanly, as each behavior is encapsulated in it's own state object.</p>
   
 <p align="left">Any appliance needs to it's command menu/options to the user.  Therefore, the Blender should contain a menu and be able to present the menu.  But why should the menu be tightly coupled to the blender?  That would be brittle.  No, it's better to accept the menu in the constructor so that the dependency is injected (composition!), resulting in loose coupling.</p>
 
